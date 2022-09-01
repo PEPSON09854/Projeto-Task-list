@@ -6,3 +6,6 @@
 </div>
 
 Nesse repositório encontrasse um projeto de listagem de tarefas cotidianas, podesse adicionar tarefas e excluílas quando as tarefas forem comprindas.
+#
+Link do projeto:
+[TASK LIST](https://projeto-task-list-pepson.netlify.app/)
